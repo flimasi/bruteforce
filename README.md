@@ -1,5 +1,9 @@
 # bruteforce python
 
+1. objetive servers pen test not secure access servers without key cript .pem
+
+2. Currently there are 1 billion passwords available on the internet
+
 ##Install Environment
 
 sudo apt update
